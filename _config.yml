@@ -3,8 +3,8 @@
 title: Amin Bashi
 email: hello@aminbashi.com
 description: Hi there # this means to ignore newlines until "baseurl:"
-baseurl: "https://syde15.github.io/" # the subpath of your site, e.g. /blog/
-url: "https://syde15.github.io/" # the base hostname & protocol for your site
+baseurl: "aminbashi.com" # the subpath of your site, e.g. /blog/
+url: "aminbashi.com" # the base hostname & protocol for your site
 
 twitter_username: aminbashi
 github_username: syde15
