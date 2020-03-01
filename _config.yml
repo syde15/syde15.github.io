@@ -2,7 +2,7 @@
 # Site settings
 title: Amin Bashi
 email: hello@aminbashi.com
-description: Hi there # this means to ignore newlines until "baseurl:"
+description: AB # this means to ignore newlines until "baseurl:"
 baseurl: "aminbashi.com" # the subpath of your site, e.g. /blog/
 url: "aminbashi.com" # the base hostname & protocol for your site
 
